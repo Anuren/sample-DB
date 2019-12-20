@@ -1,0 +1,5 @@
+﻿CREATE TABLE ClaimType
+(
+	[Id] INT PRIMARY KEY,
+	[Name] NVARCHAR(250) NOT NULL,
+)
